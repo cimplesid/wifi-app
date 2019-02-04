@@ -1,6 +1,7 @@
 # wpa
 
 implementing https://pub.dartlang.org/packages/wifi
+simple app  that scan wifi around
 
 ## Getting Started
 
